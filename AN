@@ -202,9 +202,8 @@ jalan("░░███░░░░░░░░░██████")
 jalan("░░██░░░░░░░░░░░████")
 jalan("░░░░░░░░░░░░░░░░███")
 jalan("░░░░░░░░░░░░░░░░  ")             
-           User arm
-           pas an
-
+           
+    
 CorrectUsername = "arm"
 CorrectPassword = "an"
 
